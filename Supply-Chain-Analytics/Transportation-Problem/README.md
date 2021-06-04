@@ -6,10 +6,10 @@ Which existing factories should be closed, and which new sites should be selecte
 
 # Dataset:
 
-1)Factories: It consists of 13 supply locations' data including capacity for individual location.
+1) Factories: It consists of 13 supply locations' data including capacity for individual location.
 
-2)Customers: It consists of 148 demand locations' data including the average requirement for individual.
+2) Customers: It consists of 148 demand locations' data including the average requirement for individual.
 
-3)Location_data: It provides the lattitude and longitude of all the demand and supply locations for computing cost matrix for transportation problem.
+3) Location_data: It provides the lattitude and longitude of all the demand and supply locations for computing cost matrix for transportation problem.
 
-4)WorldOil: It provides the monthly requirement of certain geographical locations for reference and understanding demand distribution. 
+4) WorldOil: It provides the monthly requirement of certain geographical locations for reference and understanding demand distribution. 
